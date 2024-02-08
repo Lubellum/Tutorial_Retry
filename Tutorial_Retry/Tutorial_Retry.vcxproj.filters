@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\1章">
+      <UniqueIdentifier>{095fb773-8a66-495c-a0d9-692ed5971879}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\2章">
+      <UniqueIdentifier>{e131b44a-ddd7-47e4-bcd3-89716c1e6852}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\3章">
+      <UniqueIdentifier>{a3648657-062f-4780-b76d-45b3d6713d1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\4章">
+      <UniqueIdentifier>{64f4c9ce-9771-411c-bd7e-bbf4d5b0ea88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\5章">
+      <UniqueIdentifier>{33b66d86-6e15-46f9-a824-b1c3d0571c9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\6章">
+      <UniqueIdentifier>{f3fe4ece-055b-4e62-942c-fcf316cdc723}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\7章">
+      <UniqueIdentifier>{a2087f8d-7ebf-4df9-9015-b2906f1ff8fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\8章">
+      <UniqueIdentifier>{fdbc825d-90e3-4e3f-b73d-e585a5e7990d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\9章">
+      <UniqueIdentifier>{7f22ab68-61f2-4df7-9e49-fccc74357673}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\10章">
+      <UniqueIdentifier>{33f9323f-d8f4-4fed-996d-dcb68d58e37f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial01_01.cpp">
+      <Filter>ソース ファイル\1章</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial01_02.cpp">
+      <Filter>ソース ファイル\1章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial01_03.cpp">
+      <Filter>ソース ファイル\1章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial02_01.cpp">
+      <Filter>ソース ファイル\2章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial02_02.cpp">
+      <Filter>ソース ファイル\2章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial02_03.cpp">
+      <Filter>ソース ファイル\2章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial02_04.cpp">
+      <Filter>ソース ファイル\2章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial02_05.cpp">
+      <Filter>ソース ファイル\2章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial02_06.cpp">
+      <Filter>ソース ファイル\2章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial03_01.cpp">
+      <Filter>ソース ファイル\3章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial03_02.cpp">
+      <Filter>ソース ファイル\3章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial03_03.cpp">
+      <Filter>ソース ファイル\3章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial03_04.cpp">
+      <Filter>ソース ファイル\3章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial03_05.cpp">
+      <Filter>ソース ファイル\3章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial03_06.cpp">
+      <Filter>ソース ファイル\3章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial03_07.cpp">
+      <Filter>ソース ファイル\3章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial03_08.cpp">
+      <Filter>ソース ファイル\3章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial03_10.cpp">
+      <Filter>ソース ファイル\3章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial03_11.cpp">
+      <Filter>ソース ファイル\3章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial03_12.cpp">
+      <Filter>ソース ファイル\3章</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="tutorial.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

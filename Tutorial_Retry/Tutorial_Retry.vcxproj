@@ -149,6 +149,14 @@
     <ClCompile Include="tutorial03_10.cpp" />
     <ClCompile Include="tutorial03_11.cpp" />
     <ClCompile Include="tutorial03_12.cpp" />
+    <ClCompile Include="tutorial04_01.cpp" />
+    <ClCompile Include="tutorial04_05.cpp" />
+    <ClCompile Include="tutorial04_06_01.cpp" />
+    <ClCompile Include="tutorial04_06_02.cpp" />
+    <ClCompile Include="tutorial04_07.cpp" />
+    <ClCompile Include="tutorial04_08.cpp" />
+    <ClCompile Include="tutorial04_09.cpp" />
+    <ClCompile Include="tutorial04_10.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />

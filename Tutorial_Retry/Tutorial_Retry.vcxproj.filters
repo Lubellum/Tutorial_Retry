@@ -111,6 +111,30 @@
     <ClCompile Include="tutorial03_12.cpp">
       <Filter>ソース ファイル\3章</Filter>
     </ClCompile>
+    <ClCompile Include="tutorial04_01.cpp">
+      <Filter>ソース ファイル\4章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial04_05.cpp">
+      <Filter>ソース ファイル\4章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial04_06_01.cpp">
+      <Filter>ソース ファイル\4章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial04_06_02.cpp">
+      <Filter>ソース ファイル\4章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial04_07.cpp">
+      <Filter>ソース ファイル\4章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial04_08.cpp">
+      <Filter>ソース ファイル\4章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial04_09.cpp">
+      <Filter>ソース ファイル\4章</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial04_10.cpp">
+      <Filter>ソース ファイル\4章</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
